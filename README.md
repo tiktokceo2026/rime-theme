@@ -1,4 +1,4 @@
-# Rime 主题工坊（离线单文件版）
+# Rime 主题工坊
 
 可视化制作 Rime 输入法主题的在线工具的离线副本，一个 HTML 文件包含全部功能，可离线使用。
 
@@ -14,7 +14,7 @@
 
 直接用浏览器打开 `index.html` 即可，无需联网、无需安装任何东西。
 
-在线访问地址：`https://<你的GitHub用户名>.github.io/<仓库名>/`
+在线访问地址：https://tiktokceo2026.github.io/rime-theme/
 
 ## 📦 来源与许可
 
